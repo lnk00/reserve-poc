@@ -1,8 +1,0 @@
-[package]
-name = "reserve-poc"
-version = "0.1.0"
-edition = "2024"
-
-[dependencies]
-actix-web = "4.10.2"
-serde = { version = "1.0.219", features = ["derive"] }

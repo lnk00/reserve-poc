@@ -1,0 +1,6 @@
+{
+  "mappings": {
+    "superapi": "https://superapi.com",
+    "test-api": "https://jsonplaceholder.typicode.com"
+  }
+}
